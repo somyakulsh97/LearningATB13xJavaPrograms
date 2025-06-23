@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34673062-78f9-4088-beaf-72ac1ac7f674" name="Changes" comment="first program">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/InterviewCoding_Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab135_String_Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab136_String_Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab137_String_Immutable_example_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab138_String_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab139_String_InterviewQues_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab140_String_InterviewQues_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab141_String_InterviewQues_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab142_String_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_string/Lab143_String_Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34673062-78f9-4088-beaf-72ac1ac7f674" name="Changes" comment="String practice question" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,26 +31,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.InterviewCoding_Question1.executor": "Run",
-    "Application.Lab01_HelloWorldProgram.executor": "Run",
-    "Application.Lab136_String_Creation.executor": "Run",
-    "Application.Lab137_String_Immutable_example_2.executor": "Run",
-    "Application.Lab138_String_Function.executor": "Run",
-    "Application.Lab139_String_InterviewQues_1.executor": "Run",
-    "Application.Lab141_String_InterviewQues_3.executor": "Run",
-    "Application.Lab142_String_Function.executor": "Run",
-    "Application.Lab143_String_Function.executor": "Run",
-    "Application.Lab_135_String_Immutable.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InterviewCoding_Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01_HelloWorldProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab136_String_Creation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab137_String_Immutable_example_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab138_String_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab139_String_InterviewQues_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab141_String_InterviewQues_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab142_String_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab143_String_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_135_String_Immutable.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Palindrome">
     <configuration name="Lab139_String_InterviewQues_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14_string.Lab139_String_InterviewQues_1" />
