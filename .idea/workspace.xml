@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34673062-78f9-4088-beaf-72ac1ac7f674" name="Changes" comment="String practice question">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Count_The_Vowel_Consonent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Lab144_StringBuffer_Vs_Builder_Create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Lab145_StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Lab146_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Lab147_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_StringBuffer_Builder_String_Function/Lab148_StringBuffer.java" afterDir="false" />
+    <list default="true" id="34673062-78f9-4088-beaf-72ac1ac7f674" name="Changes" comment="String builder and string buufer practice question">
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Char_is_V_and_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Even_Odd_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Largest_of_Three_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Max_of_Two_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/NumberCheck_P_and_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Person_eligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblem_task_23_06/Smallest_of_Two_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Char_is_V_and_C.executor": "Run",
     "Application.Count_The_Vowel_Consonent.executor": "Run",
+    "Application.Even_Odd_Check.executor": "Run",
     "Application.InterviewCoding_Question1.executor": "Run",
     "Application.Lab01_HelloWorldProgram.executor": "Run",
     "Application.Lab136_String_Creation.executor": "Run",
@@ -57,6 +60,11 @@
     "Application.Lab147_StringBuilder.executor": "Run",
     "Application.Lab148_StringBuffer.executor": "Run",
     "Application.Lab_135_String_Immutable.executor": "Run",
+    "Application.Largest_of_Three_Number.executor": "Run",
+    "Application.Max_of_Two_number.executor": "Run",
+    "Application.NumberCheck_P_and_N.executor": "Debug",
+    "Application.Person_eligibility.executor": "Run",
+    "Application.Smallest_of_Two_Number.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -65,13 +73,13 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Count_The_Vowel_Consonent">
-    <configuration name="Count_The_Vowel_Consonent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_StringBuffer_Builder_String_Function.Count_The_Vowel_Consonent" />
+  <component name="RunManager" selected="Application.Largest_of_Three_Number">
+    <configuration name="Char_is_V_and_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblem_task_23_06.Char_is_V_and_C" />
       <module name="LearningATB13xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_StringBuffer_Builder_String_Function.*" />
+          <option name="PATTERN" value="PracticeProblem_task_23_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab145_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_StringBuffer_Builder_String_Function.Lab145_StringBuffer" />
+    <configuration name="Largest_of_Three_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblem_task_23_06.Largest_of_Three_Number" />
       <module name="LearningATB13xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_StringBuffer_Builder_String_Function.*" />
+          <option name="PATTERN" value="PracticeProblem_task_23_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab146_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_StringBuffer_Builder_String_Function.Lab146_StringBuilder" />
+    <configuration name="Max_of_Two_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblem_task_23_06.Max_of_Two_number" />
       <module name="LearningATB13xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_StringBuffer_Builder_String_Function.*" />
+          <option name="PATTERN" value="PracticeProblem_task_23_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab147_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_StringBuffer_Builder_String_Function.Lab147_StringBuilder" />
+    <configuration name="Person_eligibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblem_task_23_06.Person_eligibility" />
       <module name="LearningATB13xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_StringBuffer_Builder_String_Function.*" />
+          <option name="PATTERN" value="PracticeProblem_task_23_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab148_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_StringBuffer_Builder_String_Function.Lab148_StringBuffer" />
+    <configuration name="Smallest_of_Two_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblem_task_23_06.Smallest_of_Two_Number" />
       <module name="LearningATB13xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_StringBuffer_Builder_String_Function.*" />
+          <option name="PATTERN" value="PracticeProblem_task_23_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_The_Vowel_Consonent" />
-        <item itemvalue="Application.Lab148_StringBuffer" />
-        <item itemvalue="Application.Lab147_StringBuilder" />
-        <item itemvalue="Application.Lab146_StringBuilder" />
-        <item itemvalue="Application.Lab145_StringBuffer" />
+        <item itemvalue="Application.Largest_of_Three_Number" />
+        <item itemvalue="Application.Smallest_of_Two_Number" />
+        <item itemvalue="Application.Person_eligibility" />
+        <item itemvalue="Application.Char_is_V_and_C" />
+        <item itemvalue="Application.Max_of_Two_number" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750709064605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="String builder and string buufer practice question">
+      <option name="closed" value="true" />
+      <created>1750881174713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750881174713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first program" />
     <MESSAGE value="String practice question" />
-    <option name="LAST_COMMIT_MESSAGE" value="String practice question" />
+    <MESSAGE value="String builder and string buufer practice question" />
+    <option name="LAST_COMMIT_MESSAGE" value="String builder and string buufer practice question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,6 +219,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PracticeProblem_task_23_06/Even_Odd_Check.java</url>
+          <line>5</line>
+          <properties class="PracticeProblem_task_23_06.Even_Odd_Check" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
